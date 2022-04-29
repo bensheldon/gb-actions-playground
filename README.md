@@ -1,1 +1,1 @@
-# gb-actions-playground
+# gh-actions-playground
